@@ -4,9 +4,11 @@
 
 🔐 I’m currently exploring:
 - Network Security
-- Vulnerability Analysis (Nmap, Nessus, Metasploit)
+- Vulnerability Analysis (Nmap, Metasploit)
 - SIEM tools (Splunk, ELK)
 - Malware Analysis
+- SOC
+- MITTRE ATT&CK
 
 💻 Tools & Technologies:
 - 🖥️ Linux | Windows | Wireshark
@@ -15,13 +17,8 @@
 - 🔍 Nmap | Burp Suite | Metasploit
 
 📂 Check out some of my beginner-friendly projects:
-- 🔸 [Basic Vulnerability Scan using Nmap](https://github.com/yourusername/nmap-vuln-scan)
-- 🔸 [SIEM Dashboard for DVWA Logs](https://github.com/yourusername/splunk-dvwa-dashboard)
-- 🔸 [Firewall Rules with iptables](https://github.com/yourusername/firewall-iptables)
+-
 
-🌱 Currently learning:
-- MITRE ATT&CK Framework
-- Python for cybersecurity
 
 📫 How to reach me:
 - Email:supriyareddy1142@gmail.com

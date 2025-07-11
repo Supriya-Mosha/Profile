@@ -17,7 +17,7 @@
 - 🔍 Nmap | Burp Suite | Metasploit
 
 📂 Check out some of my beginner-friendly projects:
--
+- https://github.com/Supriya-Mosha/Yara-Rules-Collection
 
 
 📫 How to reach me:
